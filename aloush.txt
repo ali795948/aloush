@@ -1,0 +1,19 @@
+
+  },
+  "payload": {
+    "to": ["send1@yahoo.com", "send2@gmail.com"],
+    "title": "Hello World!",
+    "subject": "Test one",
+    "body": "test body"
+  }
+}
+{
+  "data": {},
+  "message": "Email send successful.",
+  "success": true
+}
+{
+  "data": {},
+  "message": "Error message.",
+  "success": false
+}
